@@ -106,7 +106,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Ancien en-tête (conservé au cas où une page l'utilise encore) */
+/* Ancien en-tête (conservé au cas où) */
 .entete {
   display: flex;
   justify-content: space-between;
@@ -177,7 +177,7 @@ a:hover {
   to   { opacity: 1; transform: translateY(0); }
 }
 
-/* Petite étoile poétique */
+/* Petite étoile */
 .etoile {
   display: inline-block;
   color: var(--accent);
